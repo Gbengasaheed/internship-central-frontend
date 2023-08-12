@@ -63,7 +63,7 @@ const LandingPage = () => {
               }}
             >
               <MenuItem onClick={() => navigate("/auth")}>
-                Looking For Job?
+                Looking For Internship?
               </MenuItem>
               <MenuItem onClick={() => navigate("/login")}>
                 Looking To Hire?

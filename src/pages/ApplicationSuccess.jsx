@@ -26,7 +26,7 @@ const ApplicationSuccess = () => {
       <div className="mt-6 mb-4 md:mt-20 md:flex md:justify-center md:items-center">
         <button
           className="w-[300px] h-[70px] bg-blue-500 text-white font-roboto font-bold text-xl rounded-lg"
-          onClick={() => navigate("/homepage")}
+          onClick={() => navigate("/home")}
         >
           Home
         </button>
