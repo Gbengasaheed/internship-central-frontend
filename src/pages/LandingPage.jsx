@@ -27,14 +27,13 @@ const LandingPage = () => {
               Hire The Best Intern within 24 Hours
             </h1>
             <p className="font-sans text-center font-light mt-6 md:text-2xl xl:mt-10 lg:text-3xl">
-              Receive carefully screened terms from remote developers that best
-              meet your time zone and work methodology.
+              Receive carefully screened interns.
             </p>
             <h3 className="text-2xl text-left font-['Inter'] text-cyan-600 mt-2 md:mt-4 lg:text-4xl lg:text-blue-600 lg:mt-[6rem] lg:mb-4">
-              Find your new job today
+              Find your next step!
             </h3>
             <p className="font-['Inter'] text-center font-light mt-2 lg:text-3xl">
-              Thousands of jobs in the computer, engineering and technology
+              Thousands of Internship in the computer, engineering and technology
               sectors are waiting for you.
             </p>
           </div>
